@@ -1,0 +1,6 @@
+@ContentInteractionService_HostAddress = http://localhost:5190
+
+GET {{ContentInteractionService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
